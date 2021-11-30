@@ -1,0 +1,8 @@
+name: Google Datastore export
+image: tohero/google-datastore-export:1.0.0
+description: Export Datastore to Cloud Storage
+category: Deployment
+tags:
+- Google App Engine
+- Google
+- deploy
